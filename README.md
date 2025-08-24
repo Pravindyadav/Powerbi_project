@@ -1,2 +1,2 @@
 # Powerbi_project
-end to end powerbi project for mobile sales
+end to end powerbi project using mobile sales dataset
